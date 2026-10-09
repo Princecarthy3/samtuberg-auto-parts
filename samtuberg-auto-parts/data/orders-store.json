@@ -1,0 +1,1607 @@
+{
+  "orders": [
+    {
+      "id": "STB-1790987608723-7394",
+      "timestamp": "2026-10-03T00:34:07.452Z",
+      "customerName": "Daniel Gyamfi",
+      "customerEmail": "gyamfid113@gmail.com",
+      "phone": "0533004986",
+      "address": "BS-1680-7358",
+      "city": "Accra / Kumasi",
+      "items": [
+        {
+          "id": "custom_1790369931916",
+          "name": "Toyota 2021",
+          "price": 5,
+          "quantity": 1
+        }
+      ],
+      "total": 5,
+      "status": "In Transit",
+      "paymentMethod": "Paystack (Verified)",
+      "paymentReference": "PSTK-GH-1790987611869-1121",
+      "paymentStatus": "paid",
+      "read": false,
+      "tracking": {
+        "status": "In Transit",
+        "progress": 75,
+        "steps": [
+          {
+            "key": "received",
+            "status": "New Order Received",
+            "label": "Order Received",
+            "index": 0,
+            "title": "Order Received",
+            "current": false,
+            "completed": true
+          },
+          {
+            "key": "pending",
+            "status": "Pending",
+            "label": "Pending",
+            "index": 1,
+            "title": "Pending",
+            "current": false,
+            "completed": true
+          },
+          {
+            "key": "confirmed",
+            "status": "Confirmed",
+            "label": "Confirmed",
+            "index": 2,
+            "title": "Confirmed",
+            "current": false,
+            "completed": true
+          },
+          {
+            "key": "paid",
+            "status": "Paid",
+            "label": "Paid",
+            "index": 3,
+            "title": "Paid",
+            "current": false,
+            "completed": true
+          },
+          {
+            "key": "processing",
+            "status": "Processing",
+            "label": "Processing",
+            "index": 4,
+            "title": "Processing",
+            "current": false,
+            "completed": true
+          },
+          {
+            "key": "packed",
+            "status": "Packed",
+            "label": "Packed",
+            "index": 5,
+            "title": "Packed",
+            "current": false,
+            "completed": true
+          },
+          {
+            "key": "transit",
+            "status": "In Transit",
+            "label": "In Transit",
+            "index": 6,
+            "title": "In Transit",
+            "current": true,
+            "completed": false
+          },
+          {
+            "key": "delivery",
+            "status": "Out for Delivery",
+            "label": "Out for Delivery",
+            "index": 7,
+            "title": "Out for Delivery",
+            "current": false,
+            "completed": false
+          },
+          {
+            "key": "done",
+            "status": "Delivered",
+            "label": "Delivered to Customer",
+            "index": 8,
+            "title": "Delivered to Customer",
+            "current": false,
+            "completed": false
+          },
+          {
+            "key": "cancelled",
+            "status": "Cancelled",
+            "label": "Cancelled",
+            "index": 9,
+            "title": "Cancelled",
+            "current": false,
+            "completed": false
+          },
+          {
+            "key": "returned",
+            "status": "Returned",
+            "label": "Returned",
+            "index": 10,
+            "title": "Returned",
+            "current": false,
+            "completed": false
+          }
+        ]
+      },
+      "inventoryConsumed": false,
+      "inventoryRestocked": false
+    },
+    {
+      "id": "STB-1790801977660-7106",
+      "timestamp": "2026-09-30T20:59:37.660Z",
+      "customerName": "Danny",
+      "customerEmail": "gyamfid113@gmail.com",
+      "phone": "0248191957",
+      "address": "Abrepo",
+      "city": "Accra / Kumasi",
+      "items": [
+        {
+          "id": "item-c2cbd503",
+          "name": "Toyota 2021",
+          "price": 100,
+          "quantity": 1
+        }
+      ],
+      "total": 100,
+      "status": "New Order Received",
+      "read": false,
+      "tracking": {
+        "status": "New Order Received",
+        "progress": 0,
+        "steps": [
+          {
+            "key": "received",
+            "status": "New Order Received",
+            "label": "Order Received",
+            "index": 0,
+            "title": "Order Received",
+            "current": true,
+            "completed": false
+          },
+          {
+            "key": "pending",
+            "status": "Pending",
+            "label": "Pending",
+            "index": 1,
+            "title": "Pending",
+            "current": false,
+            "completed": false
+          },
+          {
+            "key": "confirmed",
+            "status": "Confirmed",
+            "label": "Confirmed",
+            "index": 2,
+            "title": "Confirmed",
+            "current": false,
+            "completed": false
+          },
+          {
+            "key": "paid",
+            "status": "Paid",
+            "label": "Paid",
+            "index": 3,
+            "title": "Paid",
+            "current": false,
+            "completed": false
+          },
+          {
+            "key": "processing",
+            "status": "Processing",
+            "label": "Processing",
+            "index": 4,
+            "title": "Processing",
+            "current": false,
+            "completed": false
+          },
+          {
+            "key": "packed",
+            "status": "Packed",
+            "label": "Packed",
+            "index": 5,
+            "title": "Packed",
+            "current": false,
+            "completed": false
+          },
+          {
+            "key": "transit",
+            "status": "In Transit",
+            "label": "In Transit",
+            "index": 6,
+            "title": "In Transit",
+            "current": false,
+            "completed": false
+          },
+          {
+            "key": "delivery",
+            "status": "Out for Delivery",
+            "label": "Out for Delivery",
+            "index": 7,
+            "title": "Out for Delivery",
+            "current": false,
+            "completed": false
+          },
+          {
+            "key": "done",
+            "status": "Delivered",
+            "label": "Delivered to Customer",
+            "index": 8,
+            "title": "Delivered to Customer",
+            "current": false,
+            "completed": false
+          },
+          {
+            "key": "cancelled",
+            "status": "Cancelled",
+            "label": "Cancelled",
+            "index": 9,
+            "title": "Cancelled",
+            "current": false,
+            "completed": false
+          },
+          {
+            "key": "returned",
+            "status": "Returned",
+            "label": "Returned",
+            "index": 10,
+            "title": "Returned",
+            "current": false,
+            "completed": false
+          }
+        ]
+      },
+      "inventoryRestocked": false
+    },
+    {
+      "id": "STB-1790800926855-4176",
+      "timestamp": "2026-09-30T20:42:06.856Z",
+      "customerName": "Martha Boateng",
+      "customerEmail": "dgyamff@gmail.com",
+      "phone": "0533004986",
+      "address": "Accra",
+      "city": "Accra / Kumasi",
+      "items": [
+        {
+          "id": "item-17c14cbf",
+          "name": "Rear Bumper Cover",
+          "price": 1990,
+          "quantity": 1
+        },
+        {
+          "id": "item-5cdc90fd",
+          "name": "Sport Front Bumper",
+          "price": 2150,
+          "quantity": 1
+        }
+      ],
+      "total": 4140,
+      "status": "In Transit",
+      "read": false,
+      "tracking": {
+        "status": "In Transit",
+        "progress": 75,
+        "steps": [
+          {
+            "key": "received",
+            "status": "New Order Received",
+            "label": "Order Received",
+            "index": 0,
+            "title": "Order Received",
+            "current": false,
+            "completed": true
+          },
+          {
+            "key": "pending",
+            "status": "Pending",
+            "label": "Pending",
+            "index": 1,
+            "title": "Pending",
+            "current": false,
+            "completed": true
+          },
+          {
+            "key": "confirmed",
+            "status": "Confirmed",
+            "label": "Confirmed",
+            "index": 2,
+            "title": "Confirmed",
+            "current": false,
+            "completed": true
+          },
+          {
+            "key": "paid",
+            "status": "Paid",
+            "label": "Paid",
+            "index": 3,
+            "title": "Paid",
+            "current": false,
+            "completed": true
+          },
+          {
+            "key": "processing",
+            "status": "Processing",
+            "label": "Processing",
+            "index": 4,
+            "title": "Processing",
+            "current": false,
+            "completed": true
+          },
+          {
+            "key": "packed",
+            "status": "Packed",
+            "label": "Packed",
+            "index": 5,
+            "title": "Packed",
+            "current": false,
+            "completed": true
+          },
+          {
+            "key": "transit",
+            "status": "In Transit",
+            "label": "In Transit",
+            "index": 6,
+            "title": "In Transit",
+            "current": true,
+            "completed": false
+          },
+          {
+            "key": "delivery",
+            "status": "Out for Delivery",
+            "label": "Out for Delivery",
+            "index": 7,
+            "title": "Out for Delivery",
+            "current": false,
+            "completed": false
+          },
+          {
+            "key": "done",
+            "status": "Delivered",
+            "label": "Delivered to Customer",
+            "index": 8,
+            "title": "Delivered to Customer",
+            "current": false,
+            "completed": false
+          },
+          {
+            "key": "cancelled",
+            "status": "Cancelled",
+            "label": "Cancelled",
+            "index": 9,
+            "title": "Cancelled",
+            "current": false,
+            "completed": false
+          },
+          {
+            "key": "returned",
+            "status": "Returned",
+            "label": "Returned",
+            "index": 10,
+            "title": "Returned",
+            "current": false,
+            "completed": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "STB-1790796627449-8108",
+      "timestamp": "2026-09-30T19:30:27.449Z",
+      "customerName": "Danny",
+      "customerEmail": "gyamfid113@gmail.com",
+      "phone": "0533004986",
+      "address": "Abrepo",
+      "city": "Accra / Kumasi",
+      "items": [
+        {
+          "id": "item-3fffc7f9",
+          "name": "Toyota 2021",
+          "price": 100,
+          "quantity": 1
+        }
+      ],
+      "total": 100,
+      "status": "New Order Received",
+      "read": false,
+      "tracking": {
+        "status": "New Order Received",
+        "progress": 17,
+        "steps": [
+          {
+            "key": "received",
+            "label": "Order Received",
+            "completed": true,
+            "index": 0,
+            "title": "Order Received",
+            "current": false
+          },
+          {
+            "key": "processing",
+            "label": "Processing",
+            "completed": false,
+            "index": 1,
+            "title": "Processing",
+            "current": false
+          },
+          {
+            "key": "packed",
+            "label": "Packed",
+            "completed": false,
+            "index": 2,
+            "title": "Packed",
+            "current": false
+          },
+          {
+            "key": "transit",
+            "label": "In Transit",
+            "completed": false,
+            "current": false,
+            "index": 3,
+            "title": "In Transit"
+          },
+          {
+            "key": "delivery",
+            "label": "Out for Delivery",
+            "completed": false,
+            "current": false,
+            "index": 4,
+            "title": "Out for Delivery"
+          },
+          {
+            "key": "done",
+            "label": "Delivered",
+            "completed": false,
+            "current": false,
+            "index": 5,
+            "title": "Delivered"
+          }
+        ]
+      }
+    },
+    {
+      "id": "STB-1790796327046-8420",
+      "timestamp": "2026-09-30T19:25:27.046Z",
+      "customerName": "Martha Boateng",
+      "customerEmail": "gyamfid113@gmail.com",
+      "phone": "0533004986",
+      "address": "Abrepo",
+      "city": "Accra / Kumasi",
+      "items": [
+        {
+          "id": "item-e6c799b2",
+          "name": "corolla front bumper",
+          "price": 2300,
+          "quantity": 1
+        }
+      ],
+      "total": 2300,
+      "status": "New Order Received",
+      "read": false,
+      "tracking": {
+        "status": "New Order Received",
+        "progress": 17,
+        "steps": [
+          {
+            "key": "received",
+            "label": "Order Received",
+            "completed": true,
+            "index": 0,
+            "title": "Order Received",
+            "current": false
+          },
+          {
+            "key": "processing",
+            "label": "Processing",
+            "completed": false,
+            "index": 1,
+            "title": "Processing",
+            "current": false
+          },
+          {
+            "key": "packed",
+            "label": "Packed",
+            "completed": false,
+            "index": 2,
+            "title": "Packed",
+            "current": false
+          },
+          {
+            "key": "transit",
+            "label": "In Transit",
+            "completed": false,
+            "current": false,
+            "index": 3,
+            "title": "In Transit"
+          },
+          {
+            "key": "delivery",
+            "label": "Out for Delivery",
+            "completed": false,
+            "current": false,
+            "index": 4,
+            "title": "Out for Delivery"
+          },
+          {
+            "key": "done",
+            "label": "Delivered",
+            "completed": false,
+            "current": false,
+            "index": 5,
+            "title": "Delivered"
+          }
+        ]
+      }
+    },
+    {
+      "id": "STB-1790796115623-9207",
+      "timestamp": "2026-09-30T19:21:55.623Z",
+      "customerName": "danny",
+      "customerEmail": "gyamfid113@gmail.com",
+      "phone": "0533004986",
+      "address": "abrepo",
+      "city": "Accra / Kumasi",
+      "items": [
+        {
+          "id": "item-e17dc849",
+          "name": "Toyota 2021",
+          "price": 100,
+          "quantity": 1
+        }
+      ],
+      "total": 100,
+      "status": "New Order Received",
+      "read": false,
+      "tracking": {
+        "status": "New Order Received",
+        "progress": 17,
+        "steps": [
+          {
+            "key": "received",
+            "label": "Order Received",
+            "completed": true,
+            "index": 0,
+            "title": "Order Received",
+            "current": false
+          },
+          {
+            "key": "processing",
+            "label": "Processing",
+            "completed": false,
+            "index": 1,
+            "title": "Processing",
+            "current": false
+          },
+          {
+            "key": "packed",
+            "label": "Packed",
+            "completed": false,
+            "index": 2,
+            "title": "Packed",
+            "current": false
+          },
+          {
+            "key": "transit",
+            "label": "In Transit",
+            "completed": false,
+            "current": false,
+            "index": 3,
+            "title": "In Transit"
+          },
+          {
+            "key": "delivery",
+            "label": "Out for Delivery",
+            "completed": false,
+            "current": false,
+            "index": 4,
+            "title": "Out for Delivery"
+          },
+          {
+            "key": "done",
+            "label": "Delivered",
+            "completed": false,
+            "current": false,
+            "index": 5,
+            "title": "Delivered"
+          }
+        ]
+      }
+    },
+    {
+      "id": "STB-1790796038452-2133",
+      "timestamp": "2026-09-30T19:20:38.453Z",
+      "customerName": "Danny",
+      "customerEmail": "gyamfid113@gmail.com",
+      "phone": "0533004989",
+      "address": "Abrepo",
+      "city": "Accra / Kumasi",
+      "items": [
+        {
+          "id": "item-23cc68a1",
+          "name": "Toyota 2021",
+          "price": 100,
+          "quantity": 1
+        }
+      ],
+      "total": 100,
+      "status": "New Order Received",
+      "read": false,
+      "tracking": {
+        "status": "New Order Received",
+        "progress": 17,
+        "steps": [
+          {
+            "key": "received",
+            "label": "Order Received",
+            "completed": true,
+            "index": 0,
+            "title": "Order Received",
+            "current": false
+          },
+          {
+            "key": "processing",
+            "label": "Processing",
+            "completed": false,
+            "index": 1,
+            "title": "Processing",
+            "current": false
+          },
+          {
+            "key": "packed",
+            "label": "Packed",
+            "completed": false,
+            "index": 2,
+            "title": "Packed",
+            "current": false
+          },
+          {
+            "key": "transit",
+            "label": "In Transit",
+            "completed": false,
+            "current": false,
+            "index": 3,
+            "title": "In Transit"
+          },
+          {
+            "key": "delivery",
+            "label": "Out for Delivery",
+            "completed": false,
+            "current": false,
+            "index": 4,
+            "title": "Out for Delivery"
+          },
+          {
+            "key": "done",
+            "label": "Delivered",
+            "completed": false,
+            "current": false,
+            "index": 5,
+            "title": "Delivered"
+          }
+        ]
+      }
+    },
+    {
+      "id": "STB-1790795660695-7794",
+      "timestamp": "2026-09-30T19:14:20.695Z",
+      "customerName": "Daniel",
+      "customerEmail": "gyamfid113@gmail.com",
+      "phone": "0533004986",
+      "address": "Abrepo",
+      "city": "Accra / Kumasi",
+      "items": [
+        {
+          "id": "item-5567353d",
+          "name": "Toyota 2021",
+          "price": 100,
+          "quantity": 1
+        }
+      ],
+      "total": 100,
+      "status": "New Order Received",
+      "read": false,
+      "tracking": {
+        "status": "New Order Received",
+        "progress": 17,
+        "steps": [
+          {
+            "key": "received",
+            "label": "Order Received",
+            "completed": true,
+            "index": 0,
+            "title": "Order Received",
+            "current": false
+          },
+          {
+            "key": "processing",
+            "label": "Processing",
+            "completed": false,
+            "index": 1,
+            "title": "Processing",
+            "current": false
+          },
+          {
+            "key": "packed",
+            "label": "Packed",
+            "completed": false,
+            "index": 2,
+            "title": "Packed",
+            "current": false
+          },
+          {
+            "key": "transit",
+            "label": "In Transit",
+            "completed": false,
+            "current": false,
+            "index": 3,
+            "title": "In Transit"
+          },
+          {
+            "key": "delivery",
+            "label": "Out for Delivery",
+            "completed": false,
+            "current": false,
+            "index": 4,
+            "title": "Out for Delivery"
+          },
+          {
+            "key": "done",
+            "label": "Delivered",
+            "completed": false,
+            "current": false,
+            "index": 5,
+            "title": "Delivered"
+          }
+        ]
+      }
+    },
+    {
+      "id": "STB-1790607982234-2202",
+      "timestamp": "2026-09-28T15:06:22.234Z",
+      "customerName": "Danny",
+      "customerEmail": "gyamfid113@gmail.com",
+      "phone": "0533004986",
+      "address": "Abrepo",
+      "city": "Accra / Kumasi",
+      "items": [
+        {
+          "id": "item-59474fc6",
+          "name": "Honda HR-V Sport AWD",
+          "price": 158000,
+          "quantity": 1
+        }
+      ],
+      "total": 158000,
+      "status": "New Order Received",
+      "read": false
+    }
+  ],
+  "salesBackup": [
+    {
+      "id": "STB-1790987608723-7394",
+      "timestamp": "2026-10-03T00:34:07.452Z",
+      "customerName": "Daniel Gyamfi",
+      "customerEmail": "gyamfid113@gmail.com",
+      "phone": "0533004986",
+      "address": "BS-1680-7358",
+      "city": "Accra / Kumasi",
+      "items": [
+        {
+          "id": "custom_1790369931916",
+          "name": "Toyota 2021",
+          "price": 5,
+          "quantity": 1
+        }
+      ],
+      "total": 5,
+      "status": "In Transit",
+      "paymentMethod": "Paystack (Verified)",
+      "paymentReference": "PSTK-GH-1790987611869-1121",
+      "paymentStatus": "paid",
+      "read": false,
+      "tracking": {
+        "status": "In Transit",
+        "progress": 75,
+        "steps": [
+          {
+            "key": "received",
+            "status": "New Order Received",
+            "label": "Order Received",
+            "index": 0,
+            "title": "Order Received",
+            "current": false,
+            "completed": true
+          },
+          {
+            "key": "pending",
+            "status": "Pending",
+            "label": "Pending",
+            "index": 1,
+            "title": "Pending",
+            "current": false,
+            "completed": true
+          },
+          {
+            "key": "confirmed",
+            "status": "Confirmed",
+            "label": "Confirmed",
+            "index": 2,
+            "title": "Confirmed",
+            "current": false,
+            "completed": true
+          },
+          {
+            "key": "paid",
+            "status": "Paid",
+            "label": "Paid",
+            "index": 3,
+            "title": "Paid",
+            "current": false,
+            "completed": true
+          },
+          {
+            "key": "processing",
+            "status": "Processing",
+            "label": "Processing",
+            "index": 4,
+            "title": "Processing",
+            "current": false,
+            "completed": true
+          },
+          {
+            "key": "packed",
+            "status": "Packed",
+            "label": "Packed",
+            "index": 5,
+            "title": "Packed",
+            "current": false,
+            "completed": true
+          },
+          {
+            "key": "transit",
+            "status": "In Transit",
+            "label": "In Transit",
+            "index": 6,
+            "title": "In Transit",
+            "current": true,
+            "completed": false
+          },
+          {
+            "key": "delivery",
+            "status": "Out for Delivery",
+            "label": "Out for Delivery",
+            "index": 7,
+            "title": "Out for Delivery",
+            "current": false,
+            "completed": false
+          },
+          {
+            "key": "done",
+            "status": "Delivered",
+            "label": "Delivered to Customer",
+            "index": 8,
+            "title": "Delivered to Customer",
+            "current": false,
+            "completed": false
+          },
+          {
+            "key": "cancelled",
+            "status": "Cancelled",
+            "label": "Cancelled",
+            "index": 9,
+            "title": "Cancelled",
+            "current": false,
+            "completed": false
+          },
+          {
+            "key": "returned",
+            "status": "Returned",
+            "label": "Returned",
+            "index": 10,
+            "title": "Returned",
+            "current": false,
+            "completed": false
+          }
+        ]
+      },
+      "inventoryConsumed": false,
+      "inventoryRestocked": false
+    },
+    {
+      "id": "STB-1790801977660-7106",
+      "timestamp": "2026-09-30T20:59:37.660Z",
+      "customerName": "Danny",
+      "customerEmail": "gyamfid113@gmail.com",
+      "phone": "0248191957",
+      "address": "Abrepo",
+      "city": "Accra / Kumasi",
+      "items": [
+        {
+          "id": "item-c2cbd503",
+          "name": "Toyota 2021",
+          "price": 100,
+          "quantity": 1
+        }
+      ],
+      "total": 100,
+      "status": "New Order Received",
+      "read": false,
+      "tracking": {
+        "status": "New Order Received",
+        "progress": 0,
+        "steps": [
+          {
+            "key": "received",
+            "status": "New Order Received",
+            "label": "Order Received",
+            "index": 0,
+            "title": "Order Received",
+            "current": true,
+            "completed": false
+          },
+          {
+            "key": "pending",
+            "status": "Pending",
+            "label": "Pending",
+            "index": 1,
+            "title": "Pending",
+            "current": false,
+            "completed": false
+          },
+          {
+            "key": "confirmed",
+            "status": "Confirmed",
+            "label": "Confirmed",
+            "index": 2,
+            "title": "Confirmed",
+            "current": false,
+            "completed": false
+          },
+          {
+            "key": "paid",
+            "status": "Paid",
+            "label": "Paid",
+            "index": 3,
+            "title": "Paid",
+            "current": false,
+            "completed": false
+          },
+          {
+            "key": "processing",
+            "status": "Processing",
+            "label": "Processing",
+            "index": 4,
+            "title": "Processing",
+            "current": false,
+            "completed": false
+          },
+          {
+            "key": "packed",
+            "status": "Packed",
+            "label": "Packed",
+            "index": 5,
+            "title": "Packed",
+            "current": false,
+            "completed": false
+          },
+          {
+            "key": "transit",
+            "status": "In Transit",
+            "label": "In Transit",
+            "index": 6,
+            "title": "In Transit",
+            "current": false,
+            "completed": false
+          },
+          {
+            "key": "delivery",
+            "status": "Out for Delivery",
+            "label": "Out for Delivery",
+            "index": 7,
+            "title": "Out for Delivery",
+            "current": false,
+            "completed": false
+          },
+          {
+            "key": "done",
+            "status": "Delivered",
+            "label": "Delivered to Customer",
+            "index": 8,
+            "title": "Delivered to Customer",
+            "current": false,
+            "completed": false
+          },
+          {
+            "key": "cancelled",
+            "status": "Cancelled",
+            "label": "Cancelled",
+            "index": 9,
+            "title": "Cancelled",
+            "current": false,
+            "completed": false
+          },
+          {
+            "key": "returned",
+            "status": "Returned",
+            "label": "Returned",
+            "index": 10,
+            "title": "Returned",
+            "current": false,
+            "completed": false
+          }
+        ]
+      },
+      "inventoryRestocked": false
+    },
+    {
+      "id": "STB-1790800926855-4176",
+      "timestamp": "2026-09-30T20:42:06.856Z",
+      "customerName": "Martha Boateng",
+      "customerEmail": "dgyamff@gmail.com",
+      "phone": "0533004986",
+      "address": "Accra",
+      "city": "Accra / Kumasi",
+      "items": [
+        {
+          "id": "item-17c14cbf",
+          "name": "Rear Bumper Cover",
+          "price": 1990,
+          "quantity": 1
+        },
+        {
+          "id": "item-5cdc90fd",
+          "name": "Sport Front Bumper",
+          "price": 2150,
+          "quantity": 1
+        }
+      ],
+      "total": 4140,
+      "status": "In Transit",
+      "read": false,
+      "tracking": {
+        "status": "In Transit",
+        "progress": 75,
+        "steps": [
+          {
+            "key": "received",
+            "status": "New Order Received",
+            "label": "Order Received",
+            "index": 0,
+            "title": "Order Received",
+            "current": false,
+            "completed": true
+          },
+          {
+            "key": "pending",
+            "status": "Pending",
+            "label": "Pending",
+            "index": 1,
+            "title": "Pending",
+            "current": false,
+            "completed": true
+          },
+          {
+            "key": "confirmed",
+            "status": "Confirmed",
+            "label": "Confirmed",
+            "index": 2,
+            "title": "Confirmed",
+            "current": false,
+            "completed": true
+          },
+          {
+            "key": "paid",
+            "status": "Paid",
+            "label": "Paid",
+            "index": 3,
+            "title": "Paid",
+            "current": false,
+            "completed": true
+          },
+          {
+            "key": "processing",
+            "status": "Processing",
+            "label": "Processing",
+            "index": 4,
+            "title": "Processing",
+            "current": false,
+            "completed": true
+          },
+          {
+            "key": "packed",
+            "status": "Packed",
+            "label": "Packed",
+            "index": 5,
+            "title": "Packed",
+            "current": false,
+            "completed": true
+          },
+          {
+            "key": "transit",
+            "status": "In Transit",
+            "label": "In Transit",
+            "index": 6,
+            "title": "In Transit",
+            "current": true,
+            "completed": false
+          },
+          {
+            "key": "delivery",
+            "status": "Out for Delivery",
+            "label": "Out for Delivery",
+            "index": 7,
+            "title": "Out for Delivery",
+            "current": false,
+            "completed": false
+          },
+          {
+            "key": "done",
+            "status": "Delivered",
+            "label": "Delivered to Customer",
+            "index": 8,
+            "title": "Delivered to Customer",
+            "current": false,
+            "completed": false
+          },
+          {
+            "key": "cancelled",
+            "status": "Cancelled",
+            "label": "Cancelled",
+            "index": 9,
+            "title": "Cancelled",
+            "current": false,
+            "completed": false
+          },
+          {
+            "key": "returned",
+            "status": "Returned",
+            "label": "Returned",
+            "index": 10,
+            "title": "Returned",
+            "current": false,
+            "completed": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "STB-1790796627449-8108",
+      "timestamp": "2026-09-30T19:30:27.449Z",
+      "customerName": "Danny",
+      "customerEmail": "gyamfid113@gmail.com",
+      "phone": "0533004986",
+      "address": "Abrepo",
+      "city": "Accra / Kumasi",
+      "items": [
+        {
+          "id": "item-3fffc7f9",
+          "name": "Toyota 2021",
+          "price": 100,
+          "quantity": 1
+        }
+      ],
+      "total": 100,
+      "status": "New Order Received",
+      "read": false,
+      "tracking": {
+        "status": "New Order Received",
+        "progress": 17,
+        "steps": [
+          {
+            "key": "received",
+            "label": "Order Received",
+            "completed": true,
+            "index": 0,
+            "title": "Order Received",
+            "current": false
+          },
+          {
+            "key": "processing",
+            "label": "Processing",
+            "completed": false,
+            "index": 1,
+            "title": "Processing",
+            "current": false
+          },
+          {
+            "key": "packed",
+            "label": "Packed",
+            "completed": false,
+            "index": 2,
+            "title": "Packed",
+            "current": false
+          },
+          {
+            "key": "transit",
+            "label": "In Transit",
+            "completed": false,
+            "current": false,
+            "index": 3,
+            "title": "In Transit"
+          },
+          {
+            "key": "delivery",
+            "label": "Out for Delivery",
+            "completed": false,
+            "current": false,
+            "index": 4,
+            "title": "Out for Delivery"
+          },
+          {
+            "key": "done",
+            "label": "Delivered",
+            "completed": false,
+            "current": false,
+            "index": 5,
+            "title": "Delivered"
+          }
+        ]
+      }
+    },
+    {
+      "id": "STB-1790796327046-8420",
+      "timestamp": "2026-09-30T19:25:27.046Z",
+      "customerName": "Martha Boateng",
+      "customerEmail": "gyamfid113@gmail.com",
+      "phone": "0533004986",
+      "address": "Abrepo",
+      "city": "Accra / Kumasi",
+      "items": [
+        {
+          "id": "item-e6c799b2",
+          "name": "corolla front bumper",
+          "price": 2300,
+          "quantity": 1
+        }
+      ],
+      "total": 2300,
+      "status": "New Order Received",
+      "read": false,
+      "tracking": {
+        "status": "New Order Received",
+        "progress": 17,
+        "steps": [
+          {
+            "key": "received",
+            "label": "Order Received",
+            "completed": true,
+            "index": 0,
+            "title": "Order Received",
+            "current": false
+          },
+          {
+            "key": "processing",
+            "label": "Processing",
+            "completed": false,
+            "index": 1,
+            "title": "Processing",
+            "current": false
+          },
+          {
+            "key": "packed",
+            "label": "Packed",
+            "completed": false,
+            "index": 2,
+            "title": "Packed",
+            "current": false
+          },
+          {
+            "key": "transit",
+            "label": "In Transit",
+            "completed": false,
+            "current": false,
+            "index": 3,
+            "title": "In Transit"
+          },
+          {
+            "key": "delivery",
+            "label": "Out for Delivery",
+            "completed": false,
+            "current": false,
+            "index": 4,
+            "title": "Out for Delivery"
+          },
+          {
+            "key": "done",
+            "label": "Delivered",
+            "completed": false,
+            "current": false,
+            "index": 5,
+            "title": "Delivered"
+          }
+        ]
+      }
+    },
+    {
+      "id": "STB-1790796115623-9207",
+      "timestamp": "2026-09-30T19:21:55.623Z",
+      "customerName": "danny",
+      "customerEmail": "gyamfid113@gmail.com",
+      "phone": "0533004986",
+      "address": "abrepo",
+      "city": "Accra / Kumasi",
+      "items": [
+        {
+          "id": "item-e17dc849",
+          "name": "Toyota 2021",
+          "price": 100,
+          "quantity": 1
+        }
+      ],
+      "total": 100,
+      "status": "New Order Received",
+      "read": false,
+      "tracking": {
+        "status": "New Order Received",
+        "progress": 17,
+        "steps": [
+          {
+            "key": "received",
+            "label": "Order Received",
+            "completed": true,
+            "index": 0,
+            "title": "Order Received",
+            "current": false
+          },
+          {
+            "key": "processing",
+            "label": "Processing",
+            "completed": false,
+            "index": 1,
+            "title": "Processing",
+            "current": false
+          },
+          {
+            "key": "packed",
+            "label": "Packed",
+            "completed": false,
+            "index": 2,
+            "title": "Packed",
+            "current": false
+          },
+          {
+            "key": "transit",
+            "label": "In Transit",
+            "completed": false,
+            "current": false,
+            "index": 3,
+            "title": "In Transit"
+          },
+          {
+            "key": "delivery",
+            "label": "Out for Delivery",
+            "completed": false,
+            "current": false,
+            "index": 4,
+            "title": "Out for Delivery"
+          },
+          {
+            "key": "done",
+            "label": "Delivered",
+            "completed": false,
+            "current": false,
+            "index": 5,
+            "title": "Delivered"
+          }
+        ]
+      }
+    },
+    {
+      "id": "STB-1790796038452-2133",
+      "timestamp": "2026-09-30T19:20:38.453Z",
+      "customerName": "Danny",
+      "customerEmail": "gyamfid113@gmail.com",
+      "phone": "0533004989",
+      "address": "Abrepo",
+      "city": "Accra / Kumasi",
+      "items": [
+        {
+          "id": "item-23cc68a1",
+          "name": "Toyota 2021",
+          "price": 100,
+          "quantity": 1
+        }
+      ],
+      "total": 100,
+      "status": "New Order Received",
+      "read": false,
+      "tracking": {
+        "status": "New Order Received",
+        "progress": 17,
+        "steps": [
+          {
+            "key": "received",
+            "label": "Order Received",
+            "completed": true,
+            "index": 0,
+            "title": "Order Received",
+            "current": false
+          },
+          {
+            "key": "processing",
+            "label": "Processing",
+            "completed": false,
+            "index": 1,
+            "title": "Processing",
+            "current": false
+          },
+          {
+            "key": "packed",
+            "label": "Packed",
+            "completed": false,
+            "index": 2,
+            "title": "Packed",
+            "current": false
+          },
+          {
+            "key": "transit",
+            "label": "In Transit",
+            "completed": false,
+            "current": false,
+            "index": 3,
+            "title": "In Transit"
+          },
+          {
+            "key": "delivery",
+            "label": "Out for Delivery",
+            "completed": false,
+            "current": false,
+            "index": 4,
+            "title": "Out for Delivery"
+          },
+          {
+            "key": "done",
+            "label": "Delivered",
+            "completed": false,
+            "current": false,
+            "index": 5,
+            "title": "Delivered"
+          }
+        ]
+      }
+    },
+    {
+      "id": "STB-1790795660695-7794",
+      "timestamp": "2026-09-30T19:14:20.695Z",
+      "customerName": "Daniel",
+      "customerEmail": "gyamfid113@gmail.com",
+      "phone": "0533004986",
+      "address": "Abrepo",
+      "city": "Accra / Kumasi",
+      "items": [
+        {
+          "id": "item-5567353d",
+          "name": "Toyota 2021",
+          "price": 100,
+          "quantity": 1
+        }
+      ],
+      "total": 100,
+      "status": "New Order Received",
+      "read": false,
+      "tracking": {
+        "status": "New Order Received",
+        "progress": 17,
+        "steps": [
+          {
+            "key": "received",
+            "label": "Order Received",
+            "completed": true,
+            "index": 0,
+            "title": "Order Received",
+            "current": false
+          },
+          {
+            "key": "processing",
+            "label": "Processing",
+            "completed": false,
+            "index": 1,
+            "title": "Processing",
+            "current": false
+          },
+          {
+            "key": "packed",
+            "label": "Packed",
+            "completed": false,
+            "index": 2,
+            "title": "Packed",
+            "current": false
+          },
+          {
+            "key": "transit",
+            "label": "In Transit",
+            "completed": false,
+            "current": false,
+            "index": 3,
+            "title": "In Transit"
+          },
+          {
+            "key": "delivery",
+            "label": "Out for Delivery",
+            "completed": false,
+            "current": false,
+            "index": 4,
+            "title": "Out for Delivery"
+          },
+          {
+            "key": "done",
+            "label": "Delivered",
+            "completed": false,
+            "current": false,
+            "index": 5,
+            "title": "Delivered"
+          }
+        ]
+      }
+    },
+    {
+      "id": "STB-1790607982234-2202",
+      "timestamp": "2026-09-28T15:06:22.234Z",
+      "customerName": "Danny",
+      "customerEmail": "gyamfid113@gmail.com",
+      "phone": "0533004986",
+      "address": "Abrepo",
+      "city": "Accra / Kumasi",
+      "items": [
+        {
+          "id": "item-59474fc6",
+          "name": "Honda HR-V Sport AWD",
+          "price": 158000,
+          "quantity": 1
+        }
+      ],
+      "total": 158000,
+      "status": "New Order Received",
+      "read": false
+    },
+    {
+      "id": "ORD-7812",
+      "timestamp": "2026-09-28T13:04:22.703Z",
+      "customerName": "Kwame Mensah",
+      "customerEmail": "kwame.mensah.accra@gmail.com",
+      "phone": "+233 24 987 6543",
+      "address": "Plot 42, Spintex Road, Accra, Ghana",
+      "city": "Accra",
+      "items": [
+        {
+          "id": "item-1dcb486b",
+          "name": "HONDA HR-V MATRIX LED HEADLIGHT (2023-2026)",
+          "price": 580,
+          "quantity": 1
+        },
+        {
+          "id": "item-f2bfde5c",
+          "name": "TOYOTA RAV4 MATRIX LED HEADLIGHT PAIR",
+          "price": 680,
+          "quantity": 1
+        }
+      ],
+      "total": 1260,
+      "status": "New Order Received",
+      "read": false
+    },
+    {
+      "id": "ORD-6409",
+      "timestamp": "2026-09-28T10:39:22.704Z",
+      "customerName": "Abena Osei",
+      "customerEmail": "abena.osei.ghana@gmail.com",
+      "phone": "+233 50 123 9988",
+      "address": "East Legon, near Ancora Mall, Accra",
+      "city": "Accra",
+      "items": [
+        {
+          "id": "item-a8e5ba28",
+          "name": "HONDA CR-V FULL LED HEADLIGHT (2023-2026)",
+          "price": 660,
+          "quantity": 1
+        }
+      ],
+      "total": 660,
+      "status": "Packaging Body Parts",
+      "read": false
+    }
+  ],
+  "inventoryReservations": {}
+}
